@@ -1,6 +1,6 @@
 {
   "greeting": "Heyy",
-  "name": "Suchi the Chaos Queen!",
+  "name": "Suchi, the Chaos Queen!",
   "greetingText": "Your name? Absolute masterpiece. Just like you.",
   "wishText": "Here’s to another year of me supporting your questionable life choices! 🤭.",
   "imagePath": "img/catPNG.png",
@@ -13,11 +13,11 @@
   "text4Adjective": "Extraordinary",
   "text5Entry": "Because,",
   "text5Content": "You? You’re Extraordinary. ",
-  "smiley": "Ɛ>",
+  "smiley": "🫶🏻",
   "bigTextPart1": "S",
   "bigTextPart2": "O",
   "wishHeading": "Happy  Freakin'  Birthday!",
   "outroText": "Now go on, soak in the attention and tell me how much you loved this.",
-  "replayText": "Or click here to relive the moment. No judgment.",
-  "outroSmiley": "😏"
+  "replayText": "Or click here to relive the moment.",
+  "outroSmiley": "❥"
 }

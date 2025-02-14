@@ -4,7 +4,7 @@ html {
 
 body {
   margin: 0;
-  font-family: "Work Sans", sans-serif;
+  font-family: "Jua", sans-serif;
 }
 
 .container {
@@ -19,9 +19,9 @@ body {
 
 .footer {
   position: absolute;
-  bottom: 20px;
+  bottom: 15px;
   left: 20px;
-  font-size: 14px;
+  font-size: 12px;
   text-align: left;
   color: #555;
 }
@@ -115,7 +115,7 @@ body {
 .idea-5 span,
 .idea-6 span,
 .wish-hbd span {
-  display: inline-block;
+  display: -moz-stack;
 }
 
 .idea-6 span {
