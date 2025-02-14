@@ -19,7 +19,7 @@ body {
 
 .footer {
   position: absolute;
-  bottom: 15px;
+  bottom: 40px;
   left: 20px;
   font-size: 12px;
   text-align: left;
@@ -109,7 +109,7 @@ body {
 }
 
 .five .idea-5 {
-  font-size: 1rem;
+  font-size: 1.8rem;
 }
 
 .idea-5 span,
@@ -169,55 +169,55 @@ body {
 .eight svg:nth-child(1) {
   top: 7vh;
   left: 5vw;
-  fill: #bd6ecf;
+  fill: #00000000;
 }
 
 .eight svg:nth-child(2) {
   top: 23vh;
   left: 35vw;
-  fill: #7dd175;
+  fill: #00000000;
 }
 
 .eight svg:nth-child(3) {
   top: 33vh;
   left: 23vw;
-  fill: #349d8b;
+  fill: #00000000;
 }
 
 .eight svg:nth-child(4) {
   top: 43vh;
   left: 57vw;
-  fill: #347a9d;
+  fill: #00000000;
 }
 
 .eight svg:nth-child(5) {
   top: 68vh;
   left: 7vw;
-  fill: #c66053;
+  fill: #00000000;
 }
 
 .eight svg:nth-child(6) {
   top: 42vh;
   left: 77vw;
-  fill: #bfaa40;
+  fill: #00000000;
 }
 
 .eight svg:nth-child(7) {
   top: 68vh;
   left: 83vw;
-  fill: #e3bae8;
+  fill: #00000000;
 }
 
 .eight svg:nth-child(8) {
   top: 86vh;
   left: 37vw;
-  fill: #8762cb;
+  fill: #00000000;
 }
 
 .eight svg:nth-child(9) {
   top: 94vh;
   left: 87vw;
-  fill: #9a90da;
+  fill: #00000000;
 }
 
 .wish-hbd {
